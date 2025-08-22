@@ -1,5 +1,6 @@
 {
   "item.ratatouille_fried_delights.french_fries": "French Fries",
+  "itemGroup.ratatouille_fried_delights.base": "Ratatouille: Fried Delights",
   "ratatouille_fried_delights.configuration.items": "Item List",
   "ratatouille_fried_delights.configuration.logDirtBlock": "Log Dirt Block",
   "ratatouille_fried_delights.configuration.magicNumber": "Magic Number",
